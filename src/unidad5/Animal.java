@@ -34,7 +34,7 @@ public class Animal {
 		
 	}
 
-	public LocalDate getfecha() {
+	public LocalDate getFecha() {
 		return fecha;
 	}
 
