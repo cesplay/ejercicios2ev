@@ -1,9 +1,9 @@
 package unidad5;
 
 public class Autor {
-	private String nombre;
+	String nombre;
 	private String email;
-	private String genero;
+	String genero;
 
 	// constructor
 	Autor(String nombre, String email, String genero) {
